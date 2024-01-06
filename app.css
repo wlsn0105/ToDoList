@@ -1,0 +1,31 @@
+.body{
+    margin: auto;
+}
+.title{
+    border: solid 0px black;
+    text-align: center;
+}
+.container{
+    border: solid 0px blue;
+    border-radius: 5px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: beige;
+}
+#inputBox{
+    width: 85%;
+    height: 30px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+#addButton {
+    width: 8%;
+    height: 30px;
+    box-sizing: border-box;
+    margin: 10px 10px 10px 0px;
+}
+.doList{
+    margin: 0px 10px;
+    cursor: pointer;
+}
